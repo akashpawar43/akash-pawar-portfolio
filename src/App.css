@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root[data-theme="light"] {
+  --text: #000000;
+  --background: #f1f5fe;
+  --primary: #8e650b;
+  --secondary: #e7eefd;
+  --accent: #efb02a;
+}
+:root[data-theme="dark"] {
+  --text: #ffffff;
+  --background: #01050e;
+  --primary: #f4cb71;
+  --secondary: #020918;
+  --accent: #d59710;
+}
+:root{
+  --text: #ffffff;
+  --background: #01050e;
+  --primary: #f4cb71;
+  --secondary: #020918;
+  --accent: #d59710;
+}
+
+@media (max-width : 992px) {
+  .cont{
+    width: 5rem;
+    /* height: auto; */
+  }
+  .text-no{
+    display: none;
+  }
+}
+
+
+.wei-16{
+  width: 16.66666%;
+}
+.wei-83{
+  width: 83.33333%;
+}
+
+.wei-5{
+  width: 5.55555%
+}
+.wei-94{
+  width: 94.44444%
+}
