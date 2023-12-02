@@ -8,7 +8,7 @@
 
 <img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%201.png" alt="project-screenshot" width="100" height="100/">
 
-<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%202.png" alt="project-screenshot" width="150" height="150/">
+<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%202.png" alt="project-screenshot" >
 
 <h2>🛠️ Installation Steps:</h2>
 
