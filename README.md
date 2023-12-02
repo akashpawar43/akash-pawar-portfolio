@@ -2,11 +2,6 @@
 
 <p id="description">Welcome to Akash Pawar's portfolio showcasing a talented software developer's skills projects and experience in crafting innovative solutions through code.</p>
 
-<h2>Project Screenshots:</h2>
-
-<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%201.png" alt="project-screenshot" >
-
-<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%202.png" alt="project-screenshot" >
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -39,3 +34,9 @@ Technologies used in the project:
 *   CSS
 *   JavaScript
 *   Tailwind CSS
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%201.png" alt="project-screenshot" >
+
+<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%202.png" alt="project-screenshot" >
