@@ -1,14 +1,14 @@
 <h1 align="center" id="title">Akash Portfolio</h1>
 
-<p align="center"><img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%201.png" alt="project-image"></p>
-
 <p id="description">Welcome to Akash Pawar's portfolio showcasing a talented software developer's skills projects and experience in crafting innovative solutions through code.</p>
+
+<p align="center"><img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%201.png" alt="project-image"></p>
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%201.png" alt="project-screenshot" width="40" height="40/">
+<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%201.png" alt="project-screenshot" width="100" height="100/">
 
-<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%202.png" alt="project-screenshot" width="40" height="50/">
+<img src="https://github.com/akashpawar43/akash-pawar-portfolio/blob/master/public/assets/website%20img%202.png" alt="project-screenshot" width="150" height="150/">
 
 <h2>🛠️ Installation Steps:</h2>
 
