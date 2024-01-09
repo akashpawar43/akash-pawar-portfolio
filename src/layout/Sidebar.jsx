@@ -1,12 +1,12 @@
-import home from "/assets/home.png";
-import folder from "/assets/folder.png";
+import home from "/assets/home.webp";
+import folder from "/assets/folder.webp";
 import { useState } from "react";
 
 function Sidebar() {
   const [open, setOpen] = useState(true);
   const Menus = [
     { link: "https://www.linkedin.com/in/akashpawar23/", title: "Linkedin", src: "linkedin.webp" },
-    { link: "https://github.com/akashpawar43", title: "github", src: "github.webp" },
+    { link: "https://github.com/akashpawardev", title: "github", src: "github.webp" },
     { link: "https://www.instagram.com/mr.akki_1604/", title: "insta", src: "insta.webp" },
     { link: "#", title: "face", src: "face.webp" },
   ];

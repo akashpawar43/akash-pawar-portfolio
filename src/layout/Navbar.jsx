@@ -18,6 +18,7 @@ function Navbar() {
                         <div className="h-4 w-4 me-3 bg-yellow-400 rounded-full"></div>
                         <div className="h-4 w-4 me-3 bg-green-500 rounded-full"></div>
                         {/* <a href="#" className="flex ms-2 md:me-24">
+                            <img loading='lazy' className='w-22 h-8' src={logo} alt="logo" />
                             <span className="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white">Flowbite</span>
                         </a> */}
                     </div>
@@ -38,20 +39,6 @@ function Navbar() {
                                         akashsl1643pawar@gmail.com
                                     </p>
                                 </div>
-                                <ul className="py-1" role="none">
-                                    <li>
-                                        <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Dashboard</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Settings</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Earnings</a>
-                                    </li>
-                                    <li>
-                                        <a href="#" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white" role="menuitem">Sign out</a>
-                                    </li>
-                                </ul>
                             </div>
                         </div>
                     </div>

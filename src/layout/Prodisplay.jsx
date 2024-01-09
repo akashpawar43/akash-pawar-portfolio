@@ -28,7 +28,7 @@ export default function Prodisplay({Project}) {
                     <a target="_blank" rel="noopener noreferrer" aria-label="project" href="#">
                         <div className="relative aspect-video rounded-lg overflow-hidden">
                             <div className='flex justify-center items-center h-full w-full'>
-                                <img className="h-10 w-10" alt="In Progress" decoding="async" data-nimg="fill" src="../assets/folder.png" />
+                                <img className="h-10 w-10" alt="In Progress" decoding="async" data-nimg="fill" src="../assets/folder.webp" />
                             </div>
                             {/* <img alt="IN Progress" loading="lazy" decoding="async" data-nimg="fill" className="object-cover" style={{ position: "absolute", height: "100%", width: "100%", left: "0", top: "0", right: "0", bottom: "0", color: "transparent" }} sizes="100vw" srcset="/_next/image?url=%2Ftech%2Fweb3%2Fsolidity.jfif&amp;w=640&amp;q=75 640w, /_next/image?url=%2Ftech%2Fweb3%2Fsolidity.jfif&amp;w=750&amp;q=75 750w, /_next/image?url=%2Ftech%2Fweb3%2Fsolidity.jfif&amp;w=828&amp;q=75 828w, /_next/image?url=%2Ftech%2Fweb3%2Fsolidity.jfif&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2Ftech%2Fweb3%2Fsolidity.jfif&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2Ftech%2Fweb3%2Fsolidity.jfif&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2Ftech%2Fweb3%2Fsolidity.jfif&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2Ftech%2Fweb3%2Fsolidity.jfif&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=%2Ftech%2Fweb3%2Fsolidity.jfif&amp;w=3840&amp;q=75" /> */}
                             <div className="progress-bar">
