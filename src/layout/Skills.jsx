@@ -11,6 +11,7 @@ export default function Skills() {
                     </p>
                     <div className='flex flex-wrap gap-3 py-2'>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >React js</div>
+                        <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Redux</div>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Html</div>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >CSS</div>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >JavaScript</div>
@@ -27,6 +28,8 @@ export default function Skills() {
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Node Js</div>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Express Js</div>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >JavaScript</div>
+                        <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >jwt</div>
+                        <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Zod</div>
                     </div>
                 </div>
                 <div className="flex flex-col rounded bg-gray-50 dark:bg-gray-800 p-4">

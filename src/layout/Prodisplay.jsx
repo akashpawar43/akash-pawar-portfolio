@@ -6,8 +6,8 @@ export default function Prodisplay({Project}) {
             </div>
             <div className="gap-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 pb-5 ">
 
-                {Project.map((project) => (
-                    <div className="flex flex-col bg-white rounded-xl dark:bg-gray-800">
+                {Project.map((project, i) => (
+                    <div key={i} className="flex flex-col bg-white rounded-xl dark:bg-gray-800">
                         <a target="_blank" rel="noopener noreferrer" aria-label="project" href={`https://github.com/akashpawar43/${project.git}`}>
                             <div className="relative aspect-video overflow-hidden rounded-t-xl">
                                 <img alt="Solidity" decoding="async" data-nimg="fill" className="object-cover" style={{ position: "absolute", height: "100%", width: "100%", left: "0", top: "0", right: "0", bottom: "0", color: "transparent" }} sizes="100vw" src={`./assets/${project.src}`} />

@@ -6,7 +6,7 @@ import Navbar from './layout/Navbar';
 function App() {
 
   return (
-    <div className='app'>
+    <div className='app min-h-screen'>
       <header>
         <Navbar />
       </header>
