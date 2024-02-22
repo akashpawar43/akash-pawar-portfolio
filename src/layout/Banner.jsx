@@ -5,7 +5,7 @@ export default function Banner({Menu}) {
               <div className='flex justify-end h-full w-full p-10 backdrop-filter backdrop-blur'>
                 <div className="text-white dark:text-white">
                   <p className="text-4xl font-semibold">Akash Pawar</p>
-                  <p className="text-xl ">cwork177@gmail.com</p>
+                  <p className="text-xl ">akashsl1643pawar@gmail.com</p>
                   <div className='flex flex-row gap-2 mt-2'>
                     {Menu.map((menu,i) => (
                       <a key={i} target='__blank' aria-label="Socials" rel="noopener noreferrer" href={menu.link}>
