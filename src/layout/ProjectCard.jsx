@@ -1,5 +1,6 @@
 export default function ProjectCard() {
     const Projectdetails = [
+        { src: "paytm.webp", title: "Paytm", sub: "React.js, Node.js, MongoDb, Express.js, Tailwind CSS", git: "Paytm" },
         { src: "epic.webp", title: "Epic Games", sub: "Node.js, Express.js, HBS, JavaScript, Mongodb, Bootstrap", git: "epic-games-clone" },
         { src: "notes.png", title: "Notes App", sub: "ReactJS, Node.js, Context API, Express.js, JavaScript, Mongodb, Tailwind CSS", git: "Notes-App" },
         { src: "bms.webp", title: "BookMyShow Clone", sub: "Node.js, Express.js, HBS, JavaScript, Mongodb, Bootstrap", git: "BookMyShow-clone" },
