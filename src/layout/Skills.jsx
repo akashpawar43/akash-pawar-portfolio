@@ -54,7 +54,7 @@ export default function Skills() {
                     <div className='flex flex-wrap gap-3 py-2'>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Git</div>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Github</div>
-                        <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Gitlub</div>
+                        <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Gitlab</div>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >Docker</div>
                         <div className='p-2 rounded-lg text-gray-400 bg-gray-900' >AWS</div>
                     </div>
